@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		29515C9BD15959F90BA07C82 /* Pods_Flix.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29C183F9BF36E5276D0A230B /* Pods_Flix.framework */; };
 		313E8A2521F30A5600825DF7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 313E8A2421F30A5600825DF7 /* AppDelegate.swift */; };
-		313E8A2721F30A5600825DF7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 313E8A2621F30A5600825DF7 /* ViewController.swift */; };
 		313E8A2A21F30A5600825DF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 313E8A2821F30A5600825DF7 /* Main.storyboard */; };
 		313E8A2C21F30A5700825DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 313E8A2B21F30A5700825DF7 /* Assets.xcassets */; };
 		313E8A2F21F30A5700825DF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 313E8A2D21F30A5700825DF7 /* LaunchScreen.storyboard */; };
@@ -43,7 +42,6 @@
 		29C183F9BF36E5276D0A230B /* Pods_Flix.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Flix.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		313E8A2121F30A5600825DF7 /* Flix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		313E8A2421F30A5600825DF7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		313E8A2621F30A5600825DF7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		313E8A2921F30A5600825DF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		313E8A2B21F30A5700825DF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		313E8A2E21F30A5700825DF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -119,7 +117,6 @@
 			isa = PBXGroup;
 			children = (
 				313E8A2421F30A5600825DF7 /* AppDelegate.swift */,
-				313E8A2621F30A5600825DF7 /* ViewController.swift */,
 				313E8A2821F30A5600825DF7 /* Main.storyboard */,
 				313E8A2B21F30A5700825DF7 /* Assets.xcassets */,
 				313E8A2D21F30A5700825DF7 /* LaunchScreen.storyboard */,
@@ -399,7 +396,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				313E8A2721F30A5600825DF7 /* ViewController.swift in Sources */,
 				313E8A2521F30A5600825DF7 /* AppDelegate.swift in Sources */,
 				313E8A5521F3193B00825DF7 /* MovieCell.swift in Sources */,
 				313E8A5321F30A7A00825DF7 /* MovieViewController.swift in Sources */,

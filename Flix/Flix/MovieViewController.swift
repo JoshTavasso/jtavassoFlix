@@ -22,6 +22,7 @@ UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "MovieCell") as! MovieCell
+        
         let movie = movies[indexPath.row]
         let title = movie["title"] as! String
         let synopsis = movie["overview"] as! String
@@ -34,7 +35,6 @@ UITableViewDelegate {
         let posterUrl = URL(string: baseUrl + posterPath)
         
         cell.posterView.af_setImage(withURL: posterUrl!)
-        
         
         return cell
     }
