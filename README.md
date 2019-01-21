@@ -20,11 +20,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src= "https://media.giphy.com/media/kWpKQjYNXexXeQtIPL/giphy.gif" width=250><br>
+<img src= "https://media.giphy.com/media/8qqW9R15G9xkFgbymi/giphy.gif" width=250><br>
 
 GIF created with [GIPHY Capture](https://giphy.com/apps/giphycapture).
 
 ### Notes
 I did not encounter any challenges for this part.
 For the bonus portion, I installed the application on my iPhone 7 Plus.
-[Click here to see a video showcasing it](https://www.youtube.com/watch?v=X_zyRsdXU-o).
+[Click here to see a video showcasing it](https://www.youtube.com/watch?v=MFH6V3y5Oi4).
